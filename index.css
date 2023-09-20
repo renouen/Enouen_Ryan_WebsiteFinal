@@ -1,0 +1,40 @@
+html, body{
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+body{
+  background: #E66266;
+}
+div{
+  position: relative;
+  margin: 0 auto;
+  margin-top: -3%;
+  width: 500px;
+  height: 500px;
+  background: radial-gradient(circle at 55.7% 32.7%, #F7C6A2, #F7C6A2 4.1%, transparent 4.2%, transparent), radial-gradient(circle at 57% 28%, #E97276, #E97276 2%, transparent 2.1%, transparent), radial-gradient(circle at 54% 27%, transparent, transparent 4%, #ED9480 4%, #ED9480 5%, transparent 5.1%, transparent), radial-gradient(circle at 50.5% 31.6%, #F7C6A2, #F7C6A2 3%, transparent 3.1%, transparent), radial-gradient(circle at 49% 29%, transparent, transparent 4%, #ED9480 4%, #ED9480 5%, transparent 5.1%, transparent), radial-gradient(circle at 60.3% 49.2%, black, black 1.5%, transparent 1.6%, transparent), radial-gradient(circle at 45% 49.3%, black, black 1.7%, transparent 1.8%, transparent), radial-gradient(circle at 60.2% 49.2%, white, white 4%, transparent 4.1%, transparent), radial-gradient(circle at 45% 49.2%, white, white 4.2%, transparent 4.3%, transparent), radial-gradient(at 51.5% 49.6%, #F7C6A2, #F7C6A2 23.8%, transparent 23.9%, transparent), radial-gradient(at 51.5% 46.6%, #F7C6A2, #F7C6A2 23.8%, transparent 23.9%, transparent), radial-gradient(circle at 35.2% 54.7%, #ED9480, #ED9480 3.1%, transparent 3.2%, transparent), radial-gradient(circle at 68% 54.6%, #ED9480, #ED9480 3%, transparent 3.1%, transparent), radial-gradient(circle at 68% 54.6%, #F7C6A2, #F7C6A2 4.6%, transparent 4.7%, transparent), radial-gradient(circle at 35.2% 54.6%, #F7C6A2, #F7C6A2 5%, transparent 5.1%, transparent), radial-gradient(circle at 50.7% 74.5%, #8ED0EB, #8ED0EB 1.4%, transparent 1.5%, transparent), radial-gradient(circle at 52.3% 74.5%, #8ED0EB, #8ED0EB 1.4%, transparent 1.5%, transparent), radial-gradient(closest-side at 51.5% 75.3%, #0089B6, #0089B6 12.4%, transparent 12.9%, transparent), radial-gradient(circle at 51% 60.5%, #ED9480, #ED9480 9%, transparent 9.1%, transparent), radial-gradient(circle at 51.5% 63.5%, #F7C6A2, #F7C6A2 7%, transparent 7.1%, transparent), radial-gradient(circle at 51.5% 68.9%, white, white 12.5%, transparent 12.6%, transparent), radial-gradient(circle at 49% 73.4%, #0089B6, #0089B6 7.4%, transparent 7.5%, transparent), radial-gradient(circle at 47% 73.2%, #0089B6, #0089B6 7.4%, transparent 7.5%, transparent), radial-gradient(circle at 44% 73.2%, #0089B6, #0089B6 7.4%, transparent 7.5%, transparent), radial-gradient(circle at 55% 73.2%, #0089B6, #0089B6 7.4%, transparent 7.5%, transparent), radial-gradient(circle at 58% 73.1%, #0089B6, #0089B6 7.4%, transparent 7.5%, transparent), radial-gradient(circle at 41% 73.1%, #0089B6, #0089B6 7.4%, transparent 7.5%, transparent), radial-gradient(circle at 62% 72.9%, #0089B6, #0089B6 7.4%, transparent 7.5%, transparent), radial-gradient(circle at 60% 72.9%, #0089B6, #0089B6 7.4%, transparent 7.5%, transparent), radial-gradient(circle at 63% 74%, #0089B6, #0089B6 6.2%, transparent 6.3%, transparent), radial-gradient(circle at 45.5% 77.1%, #0089B6, #0089B6 3.2%, transparent 3.3%, transparent), radial-gradient(circle at 38.5% 77%, #0089B6, #0089B6 3.2%, transparent 3.3%, transparent), radial-gradient(circle at 56% 73.1%, #0089B6, #0089B6 7.4%, transparent 7.5%, transparent), radial-gradient(circle at 53% 73.3%, #0089B6, #0089B6 7.4%, transparent 7.5%, transparent), radial-gradient(circle at 51% 73.3%, #0089B6, #0089B6 7.4%, transparent 7.5%, transparent), radial-gradient(circle at 37.5% 75.8%, #0089B6, #0089B6 4.4%, transparent 4.5%, transparent), radial-gradient(circle at 65.5% 75.7%, #0089B6, #0089B6 4.4%, transparent 4.5%, transparent), radial-gradient(circle at 21% 81.2%, #00627D, #00627D 1.1%, transparent 1.2%, transparent), radial-gradient(circle at 82% 81.1%, #00627D, #00627D 1.1%, transparent 1.2%, transparent), radial-gradient(circle at 88% 49.8%, #E97276, #E97276 4.8%, transparent 4.9%, transparent), radial-gradient(circle at 91% 49.9%, #E97276, #E97276 4.7%, transparent 4.8%, transparent), radial-gradient(circle at 86.5% 30%, #E97276, #E97276 4.5%, transparent 4.6%, transparent), radial-gradient(circle at 16.5% 30%, #E97276, #E97276 4.5%, transparent 4.6%, transparent), radial-gradient(circle at 10.3% 23.7%, #E66266, #E66266 5.1%, transparent 5.2%, transparent), radial-gradient(circle at 16.5% 49.7%, #E97276, #E97276 4.9%, transparent 5%, transparent), radial-gradient(circle at 13.5% 49.7%, #E97276, #E97276 4.9%, transparent 5%, transparent), radial-gradient(circle at 16.8% 70.1%, #E97276, #E97276 4.5%, transparent 4.6%, transparent), radial-gradient(circle at 14.3% 70.1%, #E97276, #E97276 4.6%, transparent 4.7%, transparent), radial-gradient(circle at 12.3% 70%, #E97276, #E97276 4.7%, transparent 4.8%, transparent), radial-gradient(circle at 19.3% 70%, #E97276, #E97276 4.7%, transparent 4.8%, transparent), radial-gradient(circle at 83.3% 70%, #E97276, #E97276 4.7%, transparent 4.8%, transparent), radial-gradient(circle at 88.3% 64.7%, #E66266, #E66266 5.1%, transparent 5.2%, transparent), radial-gradient(circle at 83.3% 59.7%, #E66266, #E66266 5.1%, transparent 5.2%, transparent), radial-gradient(circle at 81.7% 59.6%, #E66266, #E66266 5.1%, transparent 5.2%, transparent), radial-gradient(circle at 21.3% 59.7%, #E66266, #E66266 5.25%, transparent 5.35%, transparent), radial-gradient(circle at 23.7% 59.7%, #E66266, #E66266 5.2%, transparent 5.3%, transparent), radial-gradient(circle at 82.7% 39.9%, #E66266, #E66266 5%, transparent 5.1%, transparent), radial-gradient(circle at 80% 39.9%, #E66266, #E66266 5.2%, transparent 5.3%, transparent), radial-gradient(circle at 21% 39.9%, #E66266, #E66266 5.2%, transparent 5.3%, transparent), radial-gradient(circle at 23.7% 39.9%, #E66266, #E66266 5.3%, transparent 5.4%, transparent), radial-gradient(circle at 0% 42%, #E66266, #E66266 16%, transparent 16.1%, transparent), radial-gradient(circle at 110% 36%, #E66266, #E66266 20%, transparent 20.1%, transparent), radial-gradient(circle at 5% 80%, #E66266, #E66266 13%, transparent 13.1%, transparent), radial-gradient(circle at 98% 80%, #E66266, #E66266 13%, transparent 13.1%, transparent), radial-gradient(circle at 42% 51%, #E97276, #E97276 30%, transparent 30.1%, transparent), radial-gradient(circle at 62% 51%, #E97276, #E97276 29%, transparent 29.1%, transparent), linear-gradient(to bottom, #e66266, #e66266 25%, #E97276 25%, #E97276 35%, #e66266 35%, #e66266 45%, #E97276 45%, #E97276 55%, #e66266 55%, #e66266 65%, #E97276 65%, #E97276 75%, #e66266 75%, #e66266 80%, #00627D 80%, #00627D 82.5%, #e66266 82.5%, #e66266);
+}
+div:before{
+content: "";
+position: absolute;
+width: 100%;
+height: 100%;
+left: 0;
+top: 0;
+background: radial-gradient(circle at 54.3% 61%, #8ED0EB, #8ED0EB 1.5%, transparent 1.6%, transparent), radial-gradient(circle at 56.4% 61.6%, #8ED0EB, #8ED0EB 3.3%, transparent 3.4%, transparent), radial-gradient(circle at 56.4% 61.6%, #0089B6, #0089B6 3.5%, transparent 3.6%, transparent), radial-gradient(circle at 56.4% 61.6%, #8ED0EB, #8ED0EB 4.5%, transparent 4.6%, transparent), radial-gradient(circle at 57% 61.5%, #0089B6, #0089B6 6.8%, transparent 6.9%, transparent), radial-gradient(circle at 56% 60%, #0089B6, #0089B6 6.5%, transparent 6.6%, transparent), radial-gradient(circle at 56% 60%, #8ED0EB, #8ED0EB 6.8%, transparent 6.9%, transparent), radial-gradient(circle at 56.4% 60.6%, #0089B6, #0089B6 8.4%, transparent 8.5%, transparent);
+animation: soother 2.5s infinite;
+}
+div:after{
+  content: "";
+  position: absolute;
+  width: 2.5%;
+  height: 2.5%;
+  left: 50.3%;
+  top: 73.6%;
+  background: linear-gradient(to top left, #8ED0EB, #8ED0EB 50%, transparent 51%, transparent);
+  transform: rotate(45deg);
+}
+
+@keyframes soother{
+  50%{width: 101%; height: 101%; left: 0.5%; top: 0.5%;}
+}
